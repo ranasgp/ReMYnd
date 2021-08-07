@@ -1,0 +1,71 @@
+
+body {
+	background-color: white;
+}
+
+h1 {
+	background-color: black;
+	color: purple;
+	text-align: center;
+	width: 230px;
+	position: absolute;
+	top: 15%;
+	left: 41%;
+}
+
+.loginbox{
+	width: 210px;
+	position: absolute;
+	top: 25%;
+	left: 50%;
+	transform: translate(-54%);
+}
+
+.loginfield{
+	border-bottom: 3px solid purple;
+	margin-bottom: 20px;
+	padding: 5px;
+	background-color: black;
+}
+
+#loginbtn{
+	width: 90px;
+	height: 30px;
+	margin-right: 10px;
+	margin-left: 5px;
+	background-color: green;
+}
+
+#regbtn{
+	width: 90px;
+	height: 30px;
+	background-color: yellow;
+}
+
+#registerbtn{
+	width: 210px;
+	height: 30px;
+	margin-right: 10px;
+	background-color: green;
+}
+
+#backbtn{
+	margin-top: 10px;
+	width: 210px;
+	height: 30px;
+	background-color: yellow;
+}
+
+#chgbtn{
+	margin-top: 10px;
+	width: 210px;
+	height: 30px;
+	background-color: blue;
+}
+
+#delbtn{
+	margin-top: 10px;
+	width: 210px;
+	height: 30px;
+	background-color: red;
+}
